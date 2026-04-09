@@ -1,26 +1,21 @@
-# Langur - Almanca Turkce Ingilizce Sozluk
+# Langur
 
-<p align="center">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/app-icon/langur.png/512x512bb.jpg" width="120" alt="Langur App Icon">
-</p>
+### Almanca - Turkce - Ingilizce Sozluk
 
-<p align="center">
-  <strong>3 Dilde Kelime Ara, Ogren, Tekrar Et</strong><br>
-  iOS icin ucretsiz sozluk uygulamasi
-</p>
+> 3 Dilde Kelime Ara, Ogren, Tekrar Et — iOS icin ucretsiz sozluk uygulamasi
 
 ---
 
 ## Ozellikler
 
 ### Aninda Ceviri
-Almanca, Turkce ve Ingilizce arasinda hizlica kelime arayabilirsiniz. Sonuclar aninda listelenir.
+Almanca, Turkce ve Ingilizce arasinda hizlica kelime arayabilirsiniz.
 
 - **DE <-> EN** (Almanca - Ingilizce)
 - **DE <-> TR** (Almanca - Turkce)
 
 ### Collocations & Baglam
-Her kelime icin yayin collocations (kelime eslestirmeleri) ve ornek cumleler gosterilir. Kelimeleri baglam icinde ogrenirsiniz.
+Her kelime icin yaygın collocations (kelime eslestirmeleri) ve ornek cumleler:
 
 | Almanca | Turkce | English |
 |---------|--------|---------|
@@ -28,51 +23,36 @@ Her kelime icin yayin collocations (kelime eslestirmeleri) ve ornek cumleler gos
 | Bescheid geben | haber vermek | to let know |
 | Spass machen | eglenmek | to have fun |
 | eine Frage stellen | soru sormak | to ask a question |
+| zum Beispiel | ornegin | for example |
+| in Ordnung | tamam | alright |
 
 ### Flash Kartlar
 Kelime kartlari ile pratik yapin:
 - On yuz: Kelime + tur (Verb, Noun, Adj...)
 - Arka yuz: Ceviriler + fiil halleri + ornek cumle
-- Kategoriye gore filtreleme (Verb, Noun, Adj, Adv)
+- Kategoriye gore filtreleme
 
 ### Favoriler & Gecmis
 - Begendiginiz kelimeleri favorilere ekleyin
-- Son aradiklarnizi gecmisten tekrar erisin
-
----
-
-## Ekran Goruntuleri
-
-| Ana Sayfa | Arama | Collocations |
-|-----------|-------|-------------|
-| Kelime arama ekrani | Sonuc listesi ve collocations | 3 dilli eslestirme tablosu |
-
-| Flash Kartlar | Diller |
-|---------------|--------|
-| Kelime kartlari ile ogrenme | DE - TR - EN |
+- Son aramalara gecmisten erisin
 
 ---
 
 ## Teknik Bilgiler
 
-- **Platform:** iOS 16.0+
-- **Diller:** Almanca, Turkce, Ingilizce
-- **Boyut:** ~15 MB
-- **Fiyat:** Ucretsiz
-- **Gelistirici:** Emircan Yayla
+| | |
+|---|---|
+| **Platform** | iOS 16.0+ |
+| **Diller** | Almanca, Turkce, Ingilizce |
+| **Fiyat** | Ucretsiz |
+| **Gelistirici** | Emircan Yayla |
 
 ---
 
 ## Gizlilik Politikasi
 
 Langur **hicbir kisisel veri toplamaz**.
-
-- Kullanici hesabi gerektirmez
-- Analitik veya izleme SDK'si kullanmaz
-- Arama gecmisi ve favoriler yalnizca cihazda saklanir
-- Ucuncu taraflarla hicbir veri paylasilmaz
-
-Daha fazla bilgi icin: [Gizlilik Politikasi](PRIVACY.md)
+Detaylar: [Gizlilik Politikasi](PRIVACY.md)
 
 ---
 
@@ -86,6 +66,4 @@ Hata bildirmek icin [Issues](https://github.com/emircanby/langur-support/issues)
 
 ---
 
-## Lisans
-
-Copyright 2026 Emircan Yayla. Tum haklari saklidir.
+© 2026 Emircan Yayla. Tum haklari saklidir.
