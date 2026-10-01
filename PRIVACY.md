@@ -1,52 +1,19 @@
-# Privacy Policy
-
-**Last updated:** April 9, 2026
-
+---
+layout: default
 ---
 
-## Data Collection
+# Langur privacy policy
 
-Langur **does not collect any personal data**. The app runs entirely on your device — no accounts, no sign-in, no tracking.
+Updated: October 1, 2026. Scope: local project version 1.0.5 (10).
 
----
+Langur's current project uses a bundled dictionary and source-backed example data. Dictionary lookup works on the device and does not require an account. The former account flow and runtime enrichment were removed from this project version.
 
-## What Stays on Your Device
+Favorites, search history and local app preferences are stored on your device. Removing the app removes its local app data. The app includes no advertising or analytics service in the documented current project behavior.
 
-| Data | Where It's Stored |
-|------|------------------|
-| Search history | Your device only |
-| Favorite words | Your device only |
-| Flash card progress | Your device only |
+External links and support email open services outside Langur. Information you choose to send through email or a public GitHub issue is handled by the corresponding service and is not part of offline dictionary lookup.
 
-No data is ever sent to external servers or the cloud.
+Dictionary and example data include attributed open sources. Their source licenses are separate from this privacy policy.
 
----
+Questions: **emircanby@gmail.com**.
 
-## Third-Party Services
-
-Langur does not use any third-party analytics, advertising, or tracking services.
-
----
-
-## Children's Privacy
-
-Since Langur collects no data, it is safe for users of all ages, including children. The app is rated **4+**.
-
----
-
-## Changes to This Policy
-
-This privacy policy may be updated from time to time. Any changes will be published on this page.
-
----
-
-## Contact
-
-Questions about this policy?
-
-**Email:** emircanby@gmail.com  
-**GitHub:** [emircanby/langur-support](https://github.com/emircanby/langur-support)
-
----
-
-© 2026 Emircan Yayla
+This policy describes the stated project version. Current App Store availability has not been verified during this documentation update.

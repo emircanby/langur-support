@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <div align="center">
 <img src="screenshots/icon.png" width="120" alt="Langur app icon" />
 
@@ -38,13 +42,13 @@ The latest local project contains **115,395 dictionary entries** and example rec
 - Improved search responsiveness and reduced the recorded runtime bundle from 191 MB to 86 MB.
 - Added visible error messages when a bundled dictionary resource cannot be loaded.
 
-These notes describe the project snapshot; they do not confirm the current App Store release status. See [change history](CHANGELOG.md).
+These notes describe the project snapshot; they do not confirm the current App Store release status. See [change history](CHANGELOG.html).
 
 ## Privacy and sources
 
 Dictionary lookup uses bundled data. Favorites and history stay on your device. No account is required by the latest project.
 
-- [Privacy policy](PRIVACY.md)
+- [Privacy policy](PRIVACY.html)
 - Dictionary sources: WikDict/DBnary, Wiktionary and Kaikki.
 - Example source: Tatoeba. Source and license attribution is also available in the app.
 
