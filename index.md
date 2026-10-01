@@ -1,5 +1,6 @@
 ---
 layout: default
+image: https://emircanby.github.io/langur-support/screenshots/icon.png
 ---
 
 <img src="screenshots/icon.png" width="120" alt="Langur app icon" />
