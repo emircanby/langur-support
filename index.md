@@ -2,7 +2,6 @@
 layout: default
 ---
 
-<div align="center">
 <img src="screenshots/icon.png" width="120" alt="Langur app icon" />
 
 # Langur
@@ -10,7 +9,6 @@ layout: default
 Search vocabulary, explore source-backed examples, and practice with flashcards.
 
 **iOS 17+ · Offline dictionary · No account required**
-</div>
 
 ## Explore the app
 
