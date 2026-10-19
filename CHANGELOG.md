@@ -6,6 +6,15 @@ layout: default
 
 These notes summarize dated local project records. Dates refer to development work, not confirmed public App Store releases.
 
+## 1.1.0 (11) — October 19, 2026
+
+- Reviewed English and Turkish meanings of all dictionary entries; 61,664 entries corrected; 434 everyday words restored; 1,600 noun genders fixed.
+- Usage-pattern tables for 6,371 words with example sentences and EN/TR translations.
+- Verb-forms card (Präsens, Präteritum, Partizip II, Perfekt, person tables) for 9,288 verbs.
+- Synonyms for 13,893 words (OpenThesaurus).
+- Spaced-repetition flashcards, article and meaning quizzes, word of the day, recent searches, translation history.
+- Smarter search (inflected forms, leading articles), refreshed design, dark mode, VoiceOver and large-text improvements.
+
 ## 1.0.5 (10) — August 20, 2026
 
 - 115,395 dictionary entries; source examples for 21,121 entries.

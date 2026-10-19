@@ -17,38 +17,39 @@ Search vocabulary, explore source-backed examples, and practice with flashcards.
 |---|---|---|
 | <img src="screenshots/02_search.png" width="220" alt="Dictionary search" /> | <img src="screenshots/03_collocations.png" width="220" alt="Word details and collocations" /> | <img src="screenshots/04_flashcards.png" width="220" alt="Flashcards" /> |
 
-*Screenshots show an earlier app version; the feature notes below reflect the latest local project.*
+*Screenshots show an earlier app version; the notes below describe version 1.1.0.*
 
 ## What you can do
 
 - Search German vocabulary with Turkish and English meanings, including reverse lookup.
-- Find inflected forms and explore compound words and phrases.
-- Read available collocations and source-backed example sentences.
+- See the most common usage patterns of a word (e.g. *sich freuen auf + Akk.*) with example sentences and English/Turkish translations.
+- Type a verb to see its forms at the top of search: Präsens, Präteritum, Partizip II and Perfekt, plus full person tables.
+- Find inflected forms (ging → gehen), search with articles ("das Haus"), and explore compounds, phrases and synonyms.
 - Tap words in example sentences to continue exploring the dictionary.
-- Practice with flashcards and revisit favorites and search history.
+- Practice with spaced-repetition flashcards, article and meaning quizzes and the word of the day; revisit favorites and search history.
 - Use the bundled dictionary offline, without an account.
 
 Not every dictionary entry has a translation or example in every language. Langur shows available source data rather than inventing missing content.
 
-## Latest project changes — 1.0.5 (10)
+## Latest version — 1.1.0 (11)
 
-The latest local project contains **115,395 dictionary entries** and example records for **21,121 entries**.
+The dictionary now contains **115,825 entries**; every entry's English and Turkish meanings were reviewed.
 
-- Expanded lookup for inflected forms with an index loaded when needed.
-- Added source-backed example records and clearer source attribution.
-- Removed unverified generated verb conjugations and runtime enrichment.
-- Removed the old account flow.
-- Improved search responsiveness and reduced the recorded runtime bundle from 191 MB to 86 MB.
-- Added visible error messages when a bundled dictionary resource cannot be loaded.
+- Usage-pattern tables for **6,371 words**, each with example sentences and English/Turkish translations.
+- Verb-forms card in search and on word pages for **9,288 verbs** (from a reviewed table and Wiktionary data — no guessed forms).
+- **61,664 entries corrected**; missing everyday words restored (frei, stolz, gefallen, Essen, Leben…); noun genders (der/die/das) fixed.
+- Synonyms for **13,893 words** (OpenThesaurus).
+- Spaced-repetition flashcards, article and meaning quizzes, word of the day and recent searches.
+- Smarter search, refreshed design, improved dark mode, VoiceOver and large-text support.
 
 These notes describe the project snapshot; they do not confirm the current App Store release status. See [change history](CHANGELOG.html).
 
 ## Privacy and sources
 
-Dictionary lookup uses bundled data. Favorites and history stay on your device. No account is required by the latest project.
+Dictionary lookup uses bundled data. Favorites, history, study progress and translation history stay on your device. No account is required.
 
 - [Privacy policy](PRIVACY.html)
-- Dictionary sources: WikDict/DBnary, Wiktionary and Kaikki.
+- Dictionary sources: WikDict/DBnary, Wiktionary and Kaikki (incl. verb conjugations). Synonyms: OpenThesaurus (CC BY-SA 4.0).
 - Example source: Tatoeba. Source and license attribution is also available in the app.
 
 ## Support
